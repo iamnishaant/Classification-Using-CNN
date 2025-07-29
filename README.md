@@ -38,6 +38,6 @@ This project performs flower classification using a convolutional neural network
 - Grad-CAM visualizations
 
 ## 💾 Saved Model
-- `flower102_mobilenet_finetuned_model.h5`
+- `flower_model.h5`
 
 
