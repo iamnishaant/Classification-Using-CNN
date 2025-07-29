@@ -12,7 +12,7 @@ This project performs flower classification using a convolutional neural network
   - `cat_to_name.json` - Maps category IDs to flower names
 
 ## 🧠 Model Architecture
-- Base Model: `MobileNetV2` (pre-trained on ImageNet)
+- Base Model: `ResNet50` (pre-trained on ImageNet)
 - Custom head:
   - GlobalAveragePooling
   - Dense (512 units, ReLU)
